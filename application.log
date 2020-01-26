@@ -1,0 +1,20 @@
+2020-01-26 18:09:04,211  INFO [main] BaseClass:28 - launching chrome browser
+2020-01-26 18:09:04,466  WARN [main] BaseClass:30 - Hey this just a warning message
+2020-01-26 18:09:04,467 FATAL [main] BaseClass:31 - hey this is just fatal error message
+2020-01-26 18:09:04,468 DEBUG [main] BaseClass:32 - this is debug message
+2020-01-26 18:09:05,456  INFO [main] BaseClass:35 - entering application URL
+2020-01-26 18:09:43,678  INFO [main] BaseClass:28 - launching chrome browser
+2020-01-26 18:09:43,896  WARN [main] BaseClass:30 - Hey this just a warning message
+2020-01-26 18:09:43,897 FATAL [main] BaseClass:31 - hey this is just fatal error message
+2020-01-26 18:09:43,898 DEBUG [main] BaseClass:32 - this is debug message
+2020-01-26 18:09:44,936  INFO [main] BaseClass:35 - entering application URL
+2020-01-26 18:10:11,690  INFO [main] BaseClass:28 - launching chrome browser
+2020-01-26 18:10:11,850  WARN [main] BaseClass:30 - Hey this just a warning message
+2020-01-26 18:10:11,851 FATAL [main] BaseClass:31 - hey this is just fatal error message
+2020-01-26 18:10:11,851 DEBUG [main] BaseClass:32 - this is debug message
+2020-01-26 18:10:14,352  INFO [main] BaseClass:35 - entering application URL
+2020-01-26 18:10:43,928  INFO [main] BaseClass:28 - launching chrome browser
+2020-01-26 18:10:44,104  WARN [main] BaseClass:30 - Hey this just a warning message
+2020-01-26 18:10:44,105 FATAL [main] BaseClass:31 - hey this is just fatal error message
+2020-01-26 18:10:44,105 DEBUG [main] BaseClass:32 - this is debug message
+2020-01-26 18:10:45,279  INFO [main] BaseClass:35 - entering application URL

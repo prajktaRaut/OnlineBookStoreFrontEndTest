@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="softwareTesting">
+    <test name="Testng">
+        <classes>
+            <class name="com.thoughtworks.test.BookAddedToCartTest">
+                <methods>
+                    <parameter name="browserName" value="chrome"></parameter>
+                    <include name="performOperationOnAddToCartButton"/>
+                </methods>
+            </class>
+           <class name="com.thoughtworks.test.ShowBookAddedToCartTest">
+                <methods>
+                    <parameter name="browserName" value="firefox"></parameter>
+                    <include name="showBookAddedToCart"/>
+                </methods>
+            </class>
+            <class name="com.thoughtworks.test.AddCustomerDetailsTest">
+                <methods>
+                    <parameter name="browserName" value="chrome"></parameter>
+                    <include name="performOperationOnAddedCustomerDetails"/>
+                </methods>
+            </class>
+            <class name="com.thoughtworks.test.OrderConfirmationTest">
+                <methods>
+                    <parameter name="browserName" value="chrome"></parameter>
+                    <include name="performOperationOnConfirmOrder"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
